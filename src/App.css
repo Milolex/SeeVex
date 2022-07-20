@@ -1,0 +1,19 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+html,
+body{
+    background: #000000;
+    font-size: 18px;
+}
+.App{
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.principalconte{
+
+}
